@@ -21,7 +21,7 @@ An engineer and explorer. Let's improve everything.
 - 🔭 Working as Front-End Engineer at Meituan.
 - 🌱 Learning more in domain of Artificial Intelligence, Data Structure.
 - 💬 Ask me about anything, I'm happy to help!
-- 📫 Read more of contact me via Email, Twitter, or Wechat.
+- 📫 Read more of contact me via Email, Twitter or Wechat.
 - 📚 2020 Goals: Learn something new / Expand knowledge / Alive
 
 Have a fun day!
