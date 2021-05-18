@@ -23,6 +23,6 @@ An engineer and explorer. Let's improve everything.
 - 🌱 Learning more in domain of Artificial Intelligence, Data Structure.
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 Read more of contact me via Email, Twitter or Wechat.
-- 📚 2020 Goals: Learn something new / Expand knowledge / Alive
+- 📚 2021 Goals: Learn something new / Expand knowledge / Alive
 
 Have a fun day!
