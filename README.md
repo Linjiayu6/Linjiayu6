@@ -1,4 +1,4 @@
-### Hi there,  I am Lin.JY  🤠
+### Hi there,  I am Lin.JY 🌸
 
 <!--
 **Linjiayu6/Linjiayu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
